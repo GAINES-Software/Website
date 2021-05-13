@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: "UniSans_Thin";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+@font-face {
+  font-family: "UniSans_Thin";
+  src: local("UniSans_Thin"), url("./fonts/Uni_Sans_Thin.otf") format("truetype");
+  font-weight: normal;
+}
